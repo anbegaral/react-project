@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "master"]
+	url = https://github.com/anbegaral/react-project
+	fetch = +refs/heads/*:refs/remotes/master/*
